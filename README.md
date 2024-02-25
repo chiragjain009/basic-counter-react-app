@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with basic-counter-react-app
+
+![image](https://github.com/chiragjain009/basic-counter-react-app/assets/70319087/1327ed46-2451-4d83-bce3-911a5ff14138)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
